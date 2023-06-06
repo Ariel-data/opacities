@@ -1,11 +1,19 @@
-# opacities
+# Opacities
 Spectroscopic opacies, molecular and atomic, for atmospheric applications 
+
+## Opacity sources 
+
+- [ExoMolOP](https://exomol.com/data/data-types/opacity/)
+- [HELIOS-K](https://helios-k2.readthedocs.io/)
+- [NASA MAESTRO](https://science.data.nasa.gov/opacities/app/)
+
+## [ExoMolOP](https://exomol.com/data/data-types/opacity/) 
 
 Molecules     |   Data Name 
 ---------| --------- 
 **Metal oxides**         |
-AlO                    |        ExoMol ATP
-CaO                    |        ExoMol VBATHY
+AlO                    |        [ExoMol ATP](https://exomol.com/data/data-types/opacity/AlO/26Al-16O/ATP/)
+CaO                    |        [ExoMol VBATHY](https://exomol.com/data/data-types/opacity/CaO/40Ca-16O/VBATHY/)
 MgO                    |        ExoMol LiTY
 SiO                    |        ExoMol EBJT
 TiO                    |        ExoMol TOTO
